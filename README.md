@@ -46,3 +46,9 @@ The models were:
 - Logistic Regression with PCA
 
 ![Example Image](pics/PCA1.png)
+
+ ## Model Performance
+
+The best model is Model 2 **"Logistic Regression with PCA"**. It demonstrates robust performance with an accuracy score of **0.85** and an AUC of **0.794**. The high accuracy indicates that the model correctly predicts the outcome in 85% of the cases, showing that it fits the data really well, meaning it’s doing a good job at making predictions based on the dataset. The AUC of 0.794, while slightly below the ideal value of 1, reflects a good level of discrimination between the positive and negative classes. This means the model does a good job of telling the difference between the two outcomes, but there’s still some potential to make it even better. 
+
+![Example Image](pics/Resultss.png)
