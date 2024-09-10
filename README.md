@@ -20,7 +20,7 @@
 
 For the data cleaning process it was only needed to eliminate 24 duplicated rows
 
-## EDA
+## Exploratory Data Analysis
 
 Many different graphs were made to understand the dataset better. Below some of them. 
 
