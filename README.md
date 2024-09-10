@@ -8,7 +8,7 @@
 
 - **Impact**: Develop a predictive model to offer insights into the socioeconomic factors associated with higher or lower earnings, helping to understand income disparities and inform related decisions.
 
-- ## Resources Used
+## Resources Used
 
 **Python Version**: 3.12.1
 
