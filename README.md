@@ -4,7 +4,7 @@
 
 - **Analysis**: Examine features such as age, education, occupation, and marital status to identify key determinants of income.
   
-- **Model**: 3 Different Logistic Regression Models were conducted
+- **Model**: 3 Different Logistic Regression Models were conducted.
 
 - **Impact**: Develop a predictive model to offer insights into the socioeconomic factors associated with higher or lower earnings, helping to understand income disparities and inform related decisions.
 
